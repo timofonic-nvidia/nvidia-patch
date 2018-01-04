@@ -1,5 +1,7 @@
 # nvidia-patch
 
+#/usr/lib/x86_64-linux-gnu/libnvidia-encode.so.346.46
+
 requirements:
 - ubuntu 14.04
 - nvenc-compatible gpu
